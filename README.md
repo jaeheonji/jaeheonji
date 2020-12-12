@@ -31,8 +31,5 @@ And, I REALLY love 🕹 and 🏋️ !
 ### Github Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeheonji&hide=CSS,Ruby" />
-</a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeheonji&show_icons=true&line_height=27&count_private=true&" alt="Jae-heon Ji GitHub Stats" />
 </a>
