@@ -27,9 +27,3 @@ And, I REALLY love 🕹 and 🏋️ !
   <img alt="Helm" src="https://img.shields.io/badge/-Helm-277A9F?style=flat-square&logo=Helm&logoColor=white">
   <img alt="ElasticStack" src="https://img.shields.io/badge/-Elastic%20Stack-005571?style=flat-square&logo=Elastic%20Stack&logoColor=white">
 </p>
-
-### Github Stats
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeheonji&show_icons=true&line_height=27&count_private=true&" alt="Jae-heon Ji GitHub Stats" />
-</a>
